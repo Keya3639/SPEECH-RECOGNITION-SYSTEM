@@ -1,17 +1,3 @@
-# SPEECH-RECOGNITION-SYSTEM
-
-*COMPANY* : CODTECH IT SOLUTIONS PVT.LTD
-
-*NAME* : KEYA KARUNAMOY DAS
-
-*INTERN ID* : CT12DN1213
-
-*DOMAIN* : ARTIFICIAL INTELLIGENCE 
-
-*DURATION* : 12 WEEKS 
-
-*MENTOR* : NEELA SANTHOSH KUMAR 
-
 ##
 The **Speech Recognition System** is a Python-based application that automatically converts spoken audio into readable text. Developed using foundational Natural Language Processing (NLP) and Automatic Speech Recognition (ASR) techniques, this tool helps users transcribe voice data with high accuracy. It is designed to simplify tasks that involve capturing and documenting spoken content.
 

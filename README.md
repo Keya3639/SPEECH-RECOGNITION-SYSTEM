@@ -1,4 +1,4 @@
-#SPEECH-RECOGNITION-SYSTEM
+# SPEECH-RECOGNITION-SYSTEM
 
 The **Speech Recognition System** is a Python-based application that automatically converts spoken audio into readable text. Developed using foundational Natural Language Processing (NLP) and Automatic Speech Recognition (ASR) techniques, this tool helps users transcribe voice data with high accuracy. It is designed to simplify tasks that involve capturing and documenting spoken content.
 
